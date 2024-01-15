@@ -1,5 +1,5 @@
 def name():
-    return "John","Armin"
+    return "Mohamed","yassin"
 
 # print the tuple with the returned values
 print(name())
